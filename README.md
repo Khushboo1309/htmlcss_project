@@ -1,2 +1,2 @@
-# htmlcss_project
+# htmlcss-project
 Amazon clone
